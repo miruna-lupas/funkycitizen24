@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @funkycitizen24
 - 👀 I’m interested in civic engagement, travelling 
-- 🌱 I’m currently studying Computer Science at UBB 
+- 🌱 studies: Computer Science at Babes-Bolyai University Cluj-Napoca 
 - 💞️ I’m looking to collaborate on projects and initiatives with civic impact
 - 📫 How to reach me mirunalupas21@gmail.com / miruna.lupas@stud.ubbcluj.ro
 
